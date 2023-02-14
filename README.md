@@ -24,6 +24,8 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 
 ## Image
 
+<param ve-graphic img="https://npgallery.nps.gov/EDIS/GetAsset/e860efd487064363908948af44adea73/original.jpg?">
+
 Edison's Home in Menlo Park 
 
 <param ve-image 
