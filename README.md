@@ -11,6 +11,13 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q22087338"> <!-- Mina -->
 <param ve-entity eid="Q20657326"> <!-- Menlo Park New Jersey -->
+<param ve-entity eid="Q1782080"> <! -- Dot -->
+<param ve-entity eid="Q22087332"> <! -- Mary Stilwell Edison -->
+<param ve-entity eid="Q63823815"> <! -- William Leslie Edison -->
+<param ve-entity eid="Q2421994"> <! -- Thomas Alva Edison Jr. -->
+<param ve-entity eid="Q46939853"> <! -- Amy Busby -->
+<param ve-entity eid="Q5407441"> <! -- Eugene Lewis -->
+<param ve-entity eid="Q60676013"> <! -- Ezra Gilliland -->
 
 # Diary #1 
 
