@@ -19,6 +19,7 @@
 <param ve-entity eid="Q46939853"> <! -- Amy Busby -->
 <param ve-entity eid="Q5407441"> <! -- Eugene Lewis -->
 <param ve-entity eid="Q60676013"> <! -- Ezra Gilliland -->
+<param ve-entity eid="Q3040868"> <! -- Duck on a Rock -->
 
 # Diary #1 
 
