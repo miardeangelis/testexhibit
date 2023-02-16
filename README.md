@@ -9,6 +9,7 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
+     
 <param ve-entity eid="Q22087338"> <!-- Mina -->
 <param ve-entity eid="Q20657326"> <!-- Menlo Park New Jersey -->
 <param ve-entity eid="Q1782080"> <! -- Dot -->
@@ -35,6 +36,7 @@ Awakened at 5:15 am. My eyes were embarassed by the sunbeams—turned my back to
 
 must have charge of this branch of the vegitable kingdom.— It has just occured to me that the brain may digest certain portions of the food, say the etherial part, as well as the stomach—perhaps dandruff is the excreta of the mind—the quantity of this material being directly proportional to the amount of reading one indulges in. A book on German metaphysics would thus easily ruin a dress suit. After breakfast start reading Hawthorne's English Note Book dont think much of it.— perhaps Im a literary barbarian and am not eyet educated up to the point of appreciating fine writing— 90 per cent of his book is descriptive of old churches and graveyards and coronors— He and Geo Selwyn ought to have been appointed perpetual coroners of London. Two fine things in the book were these. Hawthorne shewing to little Rose Hawthorne a big live lobster told her it was a very ugly thing and would bite everybody, whereupon she asked "if the first one God made, bit him"— again "Ghostland is beyond the jurisdiction of veracity"— I think freckles on the skin are due to some salt of Iron, sunlight brings them out by reducing them from high to low state of oxidation—perhaps with a powerful magnet applied for some time, and then with proper chemicals, these mud holes of beauty might be removed. Dot is
 
+<param ve-image manifest="https://edisondigital.rutgers.edu/iiif/MA001>
 
 old churches and graveyards and coronors— He and Geo Selwyn ought to have been appointed perpetual coroners of London.
 
