@@ -9,8 +9,8 @@
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-     
-<param title eid="Q22087338"> <!-- Mina -->
+
+<param title="Mina" eid="Q22087338">
 <param ve-entity eid="Q20657326"> <!-- Menlo Park New Jersey -->
 <param ve-entity eid="Q1782080"> <! -- Marion Estelle Edison -->
 <param ve-entity eid="Q22087332"> <! -- Mary Stilwell Edison -->
