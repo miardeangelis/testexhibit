@@ -10,7 +10,10 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
      
-<param title="Mina Miller Edison" eid="Q22087338" aliases="Mina"     
+<param title="Mina Miller Edison" eid="Q22087338" aliases="Mina"  
+       
+<param title="Duck on a Rock" eid="Q3040868" aliases="Duck on a Rock"
+
 <param ve-entity eid="Q20657326"> <!-- Menlo Park New Jersey -->
 <param ve-entity eid="Q1782080"> <! -- Marion Estelle Edison -->
 <param ve-entity eid="Q22087332"> <! -- Mary Stilwell Edison -->
@@ -19,7 +22,6 @@
 <param ve-entity eid="Q46939853"> <! -- Amy Busby -->
 <param ve-entity eid="Q5407441"> <! -- Eugene Lewis -->
 <param ve-entity eid="Q60676013"> <! -- Ezra Gilliland -->
-<param ve-entity eid="Q3040868"> <! -- Duck on a Rock -->
 
 # Diary #1 
 
