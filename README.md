@@ -59,7 +59,7 @@ a scientific man with no farm experience I explained the necessity of having a r
 
 <param ve-image manifest="https://edisondigital.rutgers.edu/iiif/MA001"seq="6">
 
-WoodsidVilla■Boston Harbor 
+Woodside Villa Boston Harbor 
 
 <param ve-graphic img="https://edison.rutgers.edu/images/sci-fi/scifi-lookingbackward02.jpeg">
 
