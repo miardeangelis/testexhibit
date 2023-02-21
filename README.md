@@ -11,7 +11,7 @@
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
      
 <param title="Mina Miller Edison" eid="Q22087338" aliases="Mina">        
-<param title="Duck on a Rock" eid="Q3040868" aliases="Duck on a rock">
+<param title="Duck on a Rock" eid="Q3040868" aliases="Duck on the rock">
 
 <param ve-entity eid="Q20657326"> <!-- Menlo Park New Jersey -->
 <param ve-entity eid="Q1782080"> <! -- Marion Estelle Edison -->
