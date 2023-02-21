@@ -61,7 +61,7 @@ a scientific man with no farm experience I explained the necessity of having a r
 
 Woodside Villa Boston Harbor 
 
-<param ve-graphic img="https://edison.rutgers.edu/images/sci-fi/scifi-lookingbackward02.jpeg">
+<param ve-graphic img="https://www.flickr.com/photos/mastatelibrary/9458639237/in/album-72157634970087059/">
 
 ## Image
 
