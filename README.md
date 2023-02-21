@@ -56,6 +56,7 @@ They nearly did the "return ball" act. After supper Dot pitched a ball to me sev
 <param ve-image manifest="https://edisondigital.rutgers.edu/iiif/MA001"seq="5">
 
 a scientific man with no farm experience I explained the necessity of having a rooster, he saw the force of this suggestion at once. The sun has left us on time, am going to read from the encyclopedia Brittanica to steady my nerves and go to bed early. I will shut my eyes and imagine a terraced abyss, each terrace occupied by a beautiful maiden■to the first I will deliver my mind and they will pass it down down to the uttermost depths of silence and oblivion. Went to bed worked my imagination for a supply of maidens, only saw Mina Daisy & Mamma■Scheme busted—sleep.
+
 WoodsidVilla■Boston Harbor 
 
 ## Image
