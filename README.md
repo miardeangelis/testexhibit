@@ -61,7 +61,7 @@ a scientific man with no farm experience I explained the necessity of having a r
 
 Woodside Villa Boston Harbor 
 
-<param ve-graphic img="https://www.flickr.com/photos/mastatelibrary/9458639237/in/album-72157634970087059/">
+<param ve-graphic img="[https://www.flickr.com/photos/mastatelibrary/9458639237/in/album-72157634970087059/](https://drive.google.com/drive/my-drive)">
 
 ## Image
 
