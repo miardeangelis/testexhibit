@@ -12,7 +12,10 @@
      
 <param title="Mina Miller Edison" eid="Q22087338" aliases="Mina">        
 <param title="Duck on a Rock" eid="Q3040868" aliases="Duck on the rock">
+<param title="Rose Hawthorne Lathrop" eid="Q6917390" aliases="Rose Hawthorne">
+<param title="George Selwyn" eid="Q427554" aliases="Geo Selwyn">
 <param title="William Leslie Edison" eid="Q63823815">
+
 
 # Diary #1 
 
