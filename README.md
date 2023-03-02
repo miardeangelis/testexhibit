@@ -12,7 +12,7 @@
      
 <param title="Mina Miller Edison" eid="Q22087338" aliases="Mina">        
 <param title="Duck on a Rock" eid="Q3040868" aliases="Duck on the rock">
-<param title="William Leslie Edison" eid="Q63823815"
+<param title="William Leslie Edison" eid="Q63823815">
 
 # Diary #1 
 
