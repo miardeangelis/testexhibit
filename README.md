@@ -14,15 +14,6 @@
 <param title="Duck on a Rock" eid="Q3040868" aliases="Duck on the rock">
 <param title="William Leslie Edison" eid="Q63823815"
 
-<param ve-entity eid="Q20657326"> <!-- Menlo Park New Jersey -->
-<param ve-entity eid="Q1782080"> <! -- Marion Estelle Edison -->
-<param ve-entity eid="Q22087332"> <! -- Mary Stilwell Edison -->
-<param ve-entity eid="Q63823815"> <! -- William Leslie Edison -->
-<param ve-entity eid="Q2421994"> <! -- Thomas Alva Edison Jr. -->
-<param ve-entity eid="Q46939853"> <! -- Amy Busby -->
-<param ve-entity eid="Q5407441"> <! -- Eugene Lewis -->
-<param ve-entity eid="Q60676013"> <! -- Ezra Gilliland -->
-
 # Diary #1 
 
 # Menlo Park N.J. July 12, 1885
